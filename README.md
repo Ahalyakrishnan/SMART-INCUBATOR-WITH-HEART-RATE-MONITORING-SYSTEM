@@ -13,7 +13,7 @@
 •	SENSOR: Pulse sensor (HBT – V2), DHT11 sensor
 
 ### CIRCUIT
-<img src="/Asset/circuit.jpg" alt="cicruit"/>
+![circuit](https://github.com/Ahalyakrishnan/SMART-INCUBATOR-WITH-HEART-RATE-MONITORING-SYSTEM/assets/94754851/8798eab5-849d-4c77-9e92-2c3af67e0040)
 
 ### WORKING AND ITS OUTPUT
 •	Connect the pulse sensor to the digital pin D4 <br>
@@ -26,11 +26,11 @@ BPM: 103; Temperature: 35.3 Celsius; Humidity: 91 - LED is in HIGH state (alert)
 BPM: 80; Temperature: 34.3 Celsius; Humidity: 60  LED is in LOW state (normal)
 
 ### SERIAL MONITOR
-<img src="/Asset/monitor.jpg" alt="monitor"/>
+![monitor](https://github.com/Ahalyakrishnan/SMART-INCUBATOR-WITH-HEART-RATE-MONITORING-SYSTEM/assets/94754851/b29f95db-e810-4dec-9aae-cde84233ee8b)
 
 ### SERIAL PLOTTER
-<img src="/Asset/plotter.jpg" alt="plotter"/>
+![plotter](https://github.com/Ahalyakrishnan/SMART-INCUBATOR-WITH-HEART-RATE-MONITORING-SYSTEM/assets/94754851/253f48c0-1a5d-4955-b867-3d1f94f884a7)
 
 ### BLYNK APP 
-<img src="/Asset/blynk.png" alt="blynk"/><br>
-<img src="/Asset/blynk1.png" alt="blynk1"/>
+![blynk](https://github.com/Ahalyakrishnan/SMART-INCUBATOR-WITH-HEART-RATE-MONITORING-SYSTEM/assets/94754851/7076d872-e7d0-4f35-8564-f9cfe75959b5) <br>
+![blynk1](https://github.com/Ahalyakrishnan/SMART-INCUBATOR-WITH-HEART-RATE-MONITORING-SYSTEM/assets/94754851/07f25c64-6d80-454c-9f8a-2d5267de6556)
